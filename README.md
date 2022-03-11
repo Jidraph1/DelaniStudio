@@ -22,9 +22,9 @@
  
  ## Technology Used
  * HTML - which was used to build the structure of the pages.
- * CSS - which was used to style the pages incuding the left aside navigation bar
- * Bootstrap - templates used in the front-end framework to create modern websites and web apps
- * jQuery - which takes a  common tasks that require many lines of JavaScript code 
+ * CSS - which was used to style the pages incuding the fonts and styles.
+ * Bootstrap - templates used in the front-end framework to create modern websites and web apps.
+ * jQuery - which takes a  common tasks that require many lines of JavaScript code. 
  
  ## Author
  Jidraph Kimachia Kanini
