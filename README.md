@@ -5,22 +5,13 @@
  ## Table of Content
  
  + [Description](#description)
-<<<<<<< HEAD
  + [Link] (#Link)
-=======
->>>>>>> 5dffe2a9e913b1fad45ad57f3389170f5015cca2
  + [Resources](#resources)
  + [Author](#author)
  + [Requirements](#requirements)
  
  ## Description
  <p>Delani Studios is a responsive landing page website project to demonstrate proficiency in using HTML, CSS, Bootstrap, JavaScript and jQuery.</p>
-<<<<<<< HEAD
-
- ## Link 
-
-=======
->>>>>>> 5dffe2a9e913b1fad45ad57f3389170f5015cca2
  
  ## Requirements
  
