@@ -31,3 +31,18 @@ body {
 p{
     font-size: 12px;
 }
+h4 {
+    font-family: 'Montserrat';
+    text-align: center;
+    padding: 3% 0;
+}
+
+h5 {
+    padding: 5% 0;
+}
+
+.container-fluid {
+    text-align: center;
+    padding: 5%;
+
+}
