@@ -1,0 +1,12 @@
+.intro {
+    background-color: aqua;
+    background-image: url(assets/backgrounds/h_img.jpg);
+}
+
+.mouse-click{
+    align-content: center;
+}
+.delani-logo{
+    display: block;
+    align-items: center;
+}
