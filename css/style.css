@@ -48,11 +48,11 @@ h5 {
 
 }
 
+ /* SERVICES */
 .services {
     background-image: url(../assets/backgrounds/s_image.jpg);
     background-size: cover;
     background-position: center;
-    
     width: 100%;
     color: white;
     }
@@ -65,3 +65,21 @@ h5 {
     width: 15%;
     }
     
+/* PORTFOLIO */
+.portfolio-section {
+    text-align: center;
+    margin-bottom: 100Px;
+}
+
+.portfolio-heading {
+    color: #334756;
+}
+
+.portfolio-img {
+    width: 80%;
+    padding: 1%;
+}
+
+.row {
+    padding: 0.5rem;
+}
