@@ -46,4 +46,20 @@ h5 {
 
 }
 
-
+.services {
+    background-image: url(assets/backgrounds/s_image.jpg);
+    background-size: cover;
+    background-position: center;
+    
+    width: 100%;
+    color: white;
+    }
+    
+    .service-provided {
+    padding: 2%;
+    }
+    
+    .service-img {
+    width: 15%;
+    }
+    
