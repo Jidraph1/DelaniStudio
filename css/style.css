@@ -82,3 +82,14 @@ h5 {
 .row {
     padding: 0.5rem;
 }
+
+/* CONTACT FORM*/
+.form-section {
+    background-image: url(../assets/backgrounds/c_image.jpg);
+    background-position: center;
+    background-size: cover;
+    color: white;
+    height: 60vh;
+    text-align: center;
+
+}
