@@ -5,7 +5,6 @@
  ## Table of Content
  
  + [Description](#description)
- + [Link] (#Link)
  + [Resources](#resources)
  + [Author](#author)
  + [Requirements](#requirements)
