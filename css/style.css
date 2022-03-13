@@ -1,13 +1,33 @@
-.intro {
+body {
     background-color: aqua;
-    background-image: url(assets/backgrounds/h_img.jpg);
+    margin: 2px;
+    padding: 0;
 }
 
+/* Introduction section */
+.intro {
+    background-size: cover;
+    background-image: url("assets/backgrounds/h_img.jpg");
+    background-position: center;
+    height: 100vh;
+    background-color: #ccccc;
+    margin: auto;
+}
+.intro-message {
+    font-family: 'Open Sans', sans-serif;
+    font-size: larger;
+    font-weight: bold;
+    line-height: 50px;
+    padding-top: 50px;
+}
 .mouse-click{
-    align-content: center;
+    width: 1.5%;
+    padding-top: 150px;
 }
 .delani-logo{
     display: block;
     align-items: center;
 }
-git
+p{
+    font-size: 12px;
+}
