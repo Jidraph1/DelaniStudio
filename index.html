@@ -48,32 +48,43 @@
     <div class="container-fluid">
         <h4>WHAT WE DO</h4>
         <div class="row">
-            <div class="service-provided col-lg-4 col-md-6 col-sm-12">
-                <img class="service-img" src="assets/services_icons/design_icon.png" alt="Design">
+            <div class="service-provided1 col-lg-4 col-md-6 col-sm-12">
+               <div id="designImg" >
+                <img class="service-img1"  src="assets/services_icons/design_icon.png" alt="Design">
+            </div>
                 <h5>DESIGN</h5>
-                <p>Our design practice offers a full range of services including branding strategy, interaction and
+               <div id="designText" > 
+                   <p>Our design practice offers a full range of services including branding strategy, interaction and
                     visual design and user experiences testing. Throughout your project, our designers create and
                     implement visual designs and workflows, solicit user feedback and work with you to makes sure
-                    what gets built is what is needed.</p>
+                    what gets built is what is needed.</p> 
+                </div>
                 </p>
             </div>
 
 
             <div class="service-provided col-lg-4 col-md-6 col-sm-12">
-                <img class="service-img" src="assets/services_icons/dev_icon.png" alt="Development">
+                <div id="developmentImg"> 
+                    <img class="service-img2" src="assets/services_icons/dev_icon.png" alt="Development">
+                </div>
                 <h5>DEVELOPMENT</h5>
-                <p>All engineers are fluent in the latest enterprise, mobile and web developmnet technologies. <br> They
+                <div id="developmentText" >
+                <p> All engineers are fluent in the latest enterprise, mobile and web developmnet technologies. <br> They
                     collaborate with your team to write, test and improve code on a daily basis, using proven <br>
                     practices such as test driven development and pair programming.</p>
+                </div> 
             </div>
 
 
             <div class="service-provided col-lg-4 col-md-6 col-sm-12">
-                <img class="service-img" src="assets/services_icons/product_icon.png" alt="Product">
+                <div id="productImg">
+                <img class="service-img3" id="product" src="assets/services_icons/product_icon.png" alt="Product">
+            </div>
                 <h5>PRODUCT MANAGEMENT</h5>
-                <p>Planning and development is iterative. Because we are constantly coding and testing, the <br>
+                <div id="productText" > <p>Planning and development is iterative. Because we are constantly coding and testing, the <br>
                     products we build are always ready to go live. This iterative process allows for changes as <br>
                     business requirements evolve.</p>
+                </div> 
             </div>
         </div>
     </div>
@@ -129,17 +140,14 @@
                     <div class="col-md-4">
                         <form action="">
                             <input class="details p-2" type="text" placeholder="Name....">
-                        </form>
                     </div>
                     <div class="col-md-4">
-                        <form action="">
-                            <input class="details p-2" type="text" placeholder="Email...">
-                        </form>
+                            <input class="details p-2" type="text" placeholder="Email..." required>
                     </div>
                 </div>
                 <div>
                     <div class="col-md-8">
-                        <form action="">
+                        
                             <input class="message p-3 m-2" type="text" placeholder="Your Message Here">
                         </form>
                     </div>
@@ -202,13 +210,15 @@
                 </div>
             </div>
 
-
-
-
+            <div class="delani-footer">
+                <p>DELANI STUDIOS. <br>2015</p>
+            </div>
+        </footer>
 
     <!-- jQuery links -->
     <script src="https://code.jquery.com/jquery-3.6.0.js" 
     integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
-    <script src="script.js"> </script>
+    <script src="script.js"> 
+    </script>
 </body>
 </html>

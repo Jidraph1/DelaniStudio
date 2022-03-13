@@ -56,14 +56,37 @@ h5 {
     color: white;
     }
     
-    .service-provided {
+.service-provided {
     padding: 2%;
     }
     
-    .service-img {
+.service-img {
     width: 15%;
     }
-    
+
+
+/* Toggle */
+
+#designImg {
+
+}
+#designText {
+    display: none;
+}
+#developmentImg{
+
+}
+#developmentText {
+    display: none;
+}
+#productImg{
+
+}
+#productText {
+    display: none;
+}
+
+
 /* PORTFOLIO */
 .portfolio-section {
     text-align: center;
@@ -117,4 +140,8 @@ h5 {
 footer {
     background-color: #FEFFE2;
     height: 30vh;
+}
+.delani-footer {
+    font-weight: bold;
+    text-align: center;
 }
