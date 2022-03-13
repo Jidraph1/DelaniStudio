@@ -6,11 +6,10 @@ body {
 
 /* Introduction section */
 .intro {
+    background-image: url(assets/backgrounds/h_img.jpg);
     background-size: cover;
-    background-image: url("assets/backgrounds/h_img.jpg");
     background-position: center;
     height: 100vh;
-    background-color: #ccccc;
     margin: auto;
 }
 .intro-message {
@@ -46,3 +45,5 @@ h5 {
     padding: 5%;
 
 }
+
+
