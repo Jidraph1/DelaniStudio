@@ -9,14 +9,14 @@ $(document).ready(function(){
 });
 
 $(document).ready(function(){
-    $("#services-provided2").click(function() {
+    $(".service-provided2").click(function() {
         $("#developmentImg").toggle();
         $("#developmentText").toggle();
     });
 });
 
 $(document).ready(function(){
-    $("#services-provided3").click(function() {
+    $(".service-provided3").click(function() {
         $("#productImg").toggle();
         $("#productText").toggle();
     });
