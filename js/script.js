@@ -1,12 +1,28 @@
+// toggle
+
 
 $(document).ready(function(){
-    $("#design").click(function() {
-        $("#designText").slideToggle();
-        $("#designImg").slideToggle();
+    $(".service-provided1").click(function() {
+        $("#designImg").toggle();
+        $("#designText").toggle();
     });
 });
 
-// portfolio?
+$(document).ready(function(){
+    $("#services-provided2").click(function() {
+        $("#developmentImg").toggle();
+        $("#developmentText").toggle();
+    });
+});
+
+$(document).ready(function(){
+    $("#services-provided3").click(function() {
+        $("#productImg").toggle();
+        $("#productText").toggle();
+    });
+});
+
+// portfolio
 $(document).ready(function(){
     $("#work8").hover(function(){
       $("#8work").show();
