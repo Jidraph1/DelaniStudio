@@ -16,6 +16,7 @@ body {
 }
 .intro-message {
     font-family: 'Open Sans', sans-serif;
+    text-decoration: white;
     font-size: larger;
     font-weight: bold;
     line-height: 50px;
@@ -67,8 +68,8 @@ h5 {
 
 /* Toggle */
 
-#designImg {
-
+#designImg { 
+    
 }
 #designText {
     display: none;
